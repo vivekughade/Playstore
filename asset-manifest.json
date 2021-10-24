@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Playstore/static/css/main.0eb4d17d.chunk.css",
+    "main.js": "/Playstore/static/js/main.9fa38ad0.chunk.js",
+    "main.js.map": "/Playstore/static/js/main.9fa38ad0.chunk.js.map",
+    "runtime-main.js": "/Playstore/static/js/runtime-main.95228153.js",
+    "runtime-main.js.map": "/Playstore/static/js/runtime-main.95228153.js.map",
+    "static/js/2.5738cc92.chunk.js": "/Playstore/static/js/2.5738cc92.chunk.js",
+    "static/js/2.5738cc92.chunk.js.map": "/Playstore/static/js/2.5738cc92.chunk.js.map",
+    "index.html": "/Playstore/index.html",
+    "static/css/main.0eb4d17d.chunk.css.map": "/Playstore/static/css/main.0eb4d17d.chunk.css.map",
+    "static/js/2.5738cc92.chunk.js.LICENSE.txt": "/Playstore/static/js/2.5738cc92.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95228153.js",
+    "static/js/2.5738cc92.chunk.js",
+    "static/css/main.0eb4d17d.chunk.css",
+    "static/js/main.9fa38ad0.chunk.js"
+  ]
+}
